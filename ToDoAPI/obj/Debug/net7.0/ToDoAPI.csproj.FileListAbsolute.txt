@@ -1,0 +1,102 @@
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\appsettings.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\ToDoAPI.exe
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\ToDoAPI.deps.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\ToDoAPI.runtimeconfig.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\ToDoAPI.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\ToDoAPI.pdb
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.csproj.AssemblyReference.cache
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.AssemblyInfoInputs.cache
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.AssemblyInfo.cs
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoAPI.props
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoAPI.props
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoAPI.props
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\scopedcss\bundle\ToDoAPI.styles.css
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.csproj.CopyComplete
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\refint\ToDoAPI.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.pdb
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ToDoAPI.genruntimeconfig.cache
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\obj\Debug\net7.0\ref\ToDoAPI.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\My University file\Test Code\Mobile Com ref\backend dotnet\ToDoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\ToDoAPI.exe
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\ToDoAPI.deps.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\ToDoAPI.runtimeconfig.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\ToDoAPI.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\ToDoAPI.pdb
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.csproj.AssemblyReference.cache
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.AssemblyInfoInputs.cache
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.AssemblyInfo.cs
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoAPI.props
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoAPI.props
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoAPI.props
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\scopedcss\bundle\ToDoAPI.styles.css
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.csproj.CopyComplete
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\refint\ToDoAPI.dll
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.pdb
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ToDoAPI.genruntimeconfig.cache
+C:\Users\tiraw\Documents\My University file\Mobile Com\ToDoApp\ToDoAPI\obj\Debug\net7.0\ref\ToDoAPI.dll

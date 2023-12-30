@@ -1,0 +1,34 @@
+* {
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+
+body {
+  margin: 0; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#page-wrap {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.header {
+  height: 100px;
+  background-image: url("/public/Image/header.jpg");
+  display: flex;
+  align-items: center;
+  
+}
+
+.header h1 {
+  position: relative;
+  left: 200px;
+  color: whitesmoke;
+  font-size: 54px;
+}
